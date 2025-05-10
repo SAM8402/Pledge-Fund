@@ -26,3 +26,10 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
   NPM: 8.19.2
   URL: https://nodejs.org/en/download
 ```
+#### Run the App
+
+```
+  Step1: npx hardhat node
+  Step2: npx hardhat run scripts/deploy.js --network localhost
+  Step3: npm run dev
+```
