@@ -8,7 +8,7 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
 
 ## Project Overview
 
-![alt text](4th.jpg)
+![alt text](4th.png)
 
 ## Instruction
 
