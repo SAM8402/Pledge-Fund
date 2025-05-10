@@ -1,4 +1,4 @@
-# Decentralized Funding: Building and Deploying a Blockchain Crowdfunding DApp
+# Decentralized Funding: Building and Deploying a Blockchain Pledge-Fund DApp
 
 Building and Deploying a Blockchain Supply Chain Management DApp
 
